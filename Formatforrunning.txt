@@ -1,0 +1,18 @@
+D:\openjfx-17.0.16_windows-x64_bin-sdk\javafx-sdk-17.0.16\lib
+
+javac --module-path "D:\openjfx-17.0.16_windows-x64_bin-sdk\javafx-sdk-17.0.16\lib" --add-modules javafx.controls,javafx.fxml RecipeSearchUI.java
+
+java --module-path "D:\openjfx-17.0.16_windows-x64_bin-sdk\javafx-sdk-17.0.16\lib" --add-modules javafx.controls,javafx.fxml RecipeSearchUI
+
+
+javac --module-path "D:\openjfx-17.0.16_windows-x64_bin-sdk\javafx-sdk-17.0.16\lib" --add-modules javafx.controls,javafx.fxml RecipeUI.java
+
+java --module-path "D:\openjfx-17.0.16_windows-x64_bin-sdk\javafx-sdk-17.0.16\lib" --add-modules javafx.controls,javafx.fxml RecipeUI
+
+javac --module-path "D:\openjfx-17.0.16_windows-x64_bin-sdk\javafx-sdk-17.0.16\lib" --add-modules javafx.controls,javafx.fxml RecipeDetailUI.java
+
+java --module-path "D:\openjfx-17.0.16_windows-x64_bin-sdk\javafx-sdk-17.0.16\lib" --add-modules javafx.controls,javafx.fxml RecipeDetailUI
+
+javac -cp ".;jsoup-1.21.2.jar;json-20250517.jar" RecipeFinderServer.java
+
+java -cp ".;jsoup-1.21.2.jar;json-20250517.jar" RecipeFinderServer.java
