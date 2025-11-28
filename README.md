@@ -1,6 +1,7 @@
-# **Flavour Forge**
+# **Flavour Forge** 
+> **“COOK WHAT YOU LOVE WITH WHAT YOU HAVE”**
 
-**Flavour Forge** is a Semester VII **CS-411 Distributed Computing System** project that helps users discover recipes effortlessly using only the ingredients they currently have. 
+**Flavour Forge** is our **Semester VII CS-411 Distributed Computing System** project that helps users discover recipes effortlessly using only the ingredients they currently have. 
 
 ---
 
