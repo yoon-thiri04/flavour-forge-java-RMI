@@ -20,7 +20,7 @@ Users can further refine their search using multiple filters such as
 The app also supports **Drink and Dessert** searches.
 
 ---
-## **🥙Project Interface** 🥞🍳🥦🥬🥑🥒🥙🫕🍜🍲🍛🍣🥪🍱🥧🍩🍪🍸
+## **🥙Project Interface** 
 ### 👨🏻‍🍳🍝Home Page (Recipe Search Page)
 ![home](https://github.com/user-attachments/assets/7302835b-d553-4fc4-82ff-fc028a618c4b)
 
