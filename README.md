@@ -28,7 +28,7 @@ The app also supports **Drink and Dessert** searches.
 ![photo_2025-11-28_23-41-41](https://github.com/user-attachments/assets/de6bc9e0-bf6f-4e66-b515-0aa63c028c5d)
 ![photo_2025-11-28_23-41-48](https://github.com/user-attachments/assets/4e1d2988-04a9-45af-8588-775648147d30)
 
-### 🥬🌶 Detail Page (Ingredients List)
+### 🥦🧄🍌 Detail Page (Ingredients List)
 ![photo_2025-11-28_23-41-45](https://github.com/user-attachments/assets/467018c1-89ee-4c81-9bde-ebfbf8265ad9)
 
 ---
