@@ -1,13 +1,13 @@
-# **Flavour Forge** 
-> **“COOK WHAT YOU LOVE WITH WHAT YOU HAVE”**
+# **👨🏻‍🍳Flavour Forge**
+> **“COOK WHAT YOU LOVE WITH WHAT YOU HAVE”** 🍝
 
-**Flavour Forge** is our **Semester VII CS-411 Distributed Computing System** project that helps users discover recipes effortlessly using only the ingredients they currently have. 
+**Flavour Forge**👨🏻‍🍳 is our **Semester VII, CS-411 Distributed Computing System** project that helps users discover recipes effortlessly using only the ingredients they currently have. 
 
 ---
 
-##  **Overview**
+##  **🍳Overview** 
 
-Flavour Forge allows users to search for recipes by entering the ingredients they already have. The system fetches real-world recipe data directly from the **Spoonacular API**, 
+Flavour Forge allows users to search for recipes by entering the ingredients they already have. The system fetches real-world recipe🍛 data directly from the **Spoonacular API🥦**, 
 displaying recipe suggestions with images, instructions, ingredients, and nutritional details.
 
 Users can further refine their search using multiple filters such as 
