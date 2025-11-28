@@ -9,8 +9,14 @@
 Flavour Forge allows users to search for recipes by entering the ingredients they already have. The system fetches real-world recipe data directly from the **Spoonacular API**, 
 displaying recipe suggestions with images, instructions, ingredients, and nutritional details.
 
-Users can further refine their search using multiple filters such as **cuisine type**, **recipe category**, **diet preferences**, **sorting options**, and **intolerances**. 
-The app also supports **drink and dessert** searches.
+Users can further refine their search using multiple filters such as 
+- **Cuisine Type** - "Italian", "Chinese", "Indian", "Mexican", "American"
+- **Recipe Category** - "Main Course", "Side Dish", "Dessert", "Snack", "Soup"
+- **Diet Preferences** - "Vegetarian", "Vegan", "Gluten Free"
+- **Sorting Options** - "Popularity", "Healthiness", "Calories"
+- **Intolerances** - "Dairy", "Egg", "Gluten", "Peanut", "Seafood", etc..
+
+The app also supports **Drink and Dessert** searches.
 
 ---
 ## **Project Interface**
